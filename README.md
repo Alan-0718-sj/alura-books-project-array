@@ -1,6 +1,4 @@
 # alura-books-project-array
-
-├── README.md
 ├── app
     ├── main.js
     ├── metodoFilter.js
